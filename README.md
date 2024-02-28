@@ -1,4 +1,4 @@
-# RCWGAN-GP-torch
-Pytorch version of RCWGAN-GP
+# MicrostructureGAN
+Pytorch version of MicrostructureGAN
 
 Original work: https://github.com/tojunesa/RCWGAN-GP
